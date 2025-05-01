@@ -55,6 +55,7 @@ IndieShow is a product showcase website template designed specifically for indie
 
 - **Demo Site**: [https://indieshow-nuxt.waveany.com](https://indieshow-nuxt.waveany.com)
 - **Documentation**: [View Docs](https://docs.indieshow.waveany.com/nuxt)
+- **Other Branches**: If you need to set up a website for payment capability review with Stripe, Paddle, or other payment processors, you can use the [`Pricing` Branch](https://github.com/WaveAny/IndieShow-Starter-Nuxt/tree/pricing)
 
 <p align="center">
   <a href="https://indieshow-nuxt.waveany.com"><img src="./public/assets/images/IndieShow-banner.png?raw=true" alt="IndieShow banner"></a>

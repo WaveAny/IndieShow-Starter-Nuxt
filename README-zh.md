@@ -55,6 +55,7 @@ IndieShow 是一个专为独立开发者设计的产品展示网站模板。基�
 
 - **演示站点**: [https://indieshow-nuxt.waveany.com](https://indieshow-nuxt.waveany.com/)
 - **使用文档**: [查看文档](https://docs.indieshow.waveany.com/nuxt)
+- **其他分支**: 如果您需要搭建网站用于 Stripe、Paddle 等支付能力审核，可以使用[`Pricing`分支](https://github.com/WaveAny/IndieShow-Starter-Nuxt/tree/pricing)
 
 <p align="center">
   <a href="https://indieshow-nuxt.waveany.com"><img src="./public/assets/images/IndieShow-banner.png?raw=true" alt="IndieShow banner"></a>
