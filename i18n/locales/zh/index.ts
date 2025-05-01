@@ -12,4 +12,5 @@ export default defineI18nLocale(async () => ({
   showcase: await import("./showcase.json").then(r => r.default),
   seo: await import("./seo.json").then(r => r.default),
   group: await import("./group.json").then(r => r.default),
+  pricing: await import("./pricing.json").then(r => r.default),
 }))

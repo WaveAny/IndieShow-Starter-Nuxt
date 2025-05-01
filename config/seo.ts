@@ -32,7 +32,7 @@ export const seoConfig: SEOConfig = {
   },
 
   // 预定义的页面名称，用于 i18n 查找
-  pages: ["home", "privacy", "terms", "group", "sales"],
+  pages: ["home", "privacy", "terms", "group", "sales", "pricing"],
 
   // 获取站点 URL
   getSiteUrl,

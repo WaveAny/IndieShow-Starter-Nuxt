@@ -1,0 +1,110 @@
+{
+  "title": "Choose the Right Plan for You",
+  "subtitle": "Launch in minutes without design or coding, focus on creating your product, and profit quickly!",
+  "most_popular": "Most Popular",
+  "limited_time": "Limited Time Offer",
+  "original_price": "Original Price",
+  "save_amount": "Save",
+  "satisfaction": "One-time payment, lifetime use!",
+  "users_count": "30+ users have chosen",
+  "countdown": {
+    "title": "🎉 Grand Opening Offer Ending Soon",
+    "subtitle": "Limited Time Offer Countdown",
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds"
+  },
+  "free_desc": "Ideal for independent developers showcasing products",
+  "standard_desc": "Ideal for independent developers needing full features, with initial launch technical support",
+  "premium_desc": "Ideal for independent developers needing ongoing technical support, enjoy priority response",
+  "get_free": "Coming Soon",
+  "get_standard": "Coming Soon",
+  "get_premium": "Coming Soon",
+  "feature": {
+    "quick_deploy": "Quick Deployment (Website setup in minutes)",
+    "responsive": "Responsive Design (Mobile + Desktop Adaptation)",
+    "basic_theme": "Basic Theme Style",
+    "bilingual": "Bilingual Support (Chinese and English)",
+    "basic_seo": "Basic SEO Optimization",
+    "no_auth": "No user login functionality",
+    "no_payment": "No payment functionality",
+    "no_support": "No technical support provided",
+    "all_free": "Includes all features of the free version",
+    "auth_system": "User Login System",
+    "payment_system": "Online Payment System",
+    "advanced_theme": "Integration with OpenPanel and Google Analytics",
+    "multilingual": "Multilingual Support (Assistance to expand 2 languages)",
+    "animations": "Generation of Privacy, Service, and Sales Terms",
+    "pwa": "Integration with Google Search Console",
+    "advanced_seo": "Advanced SEO Optimization (Assistance to optimize SEO performance)",
+    "all_standard": "Includes all features of the standard version",
+    "priority_support": "Priority Technical Support (24-hour response)",
+    "first_launch_support": "Initial Launch Technical Support",
+    "lifetime_updates": "Lifetime Free Updates and Maintenance",
+    "custom_domain": "Custom Domain Support",
+    "performance": "Integration with Plausible and Umami"
+  },
+  "testimonials": {
+    "title": "User Reviews",
+    "items": [
+      {
+        "content": "After using WaveAny, my product showcase website's traffic increased by 300%, and the conversion rate improved by 50%!",
+        "author": "Mr. Zhang",
+        "role": "Independent Developer"
+      },
+      {
+        "content": "Completing the website setup in minutes is not an exaggeration; it is indeed very fast and professional.",
+        "author": "Ms. Li",
+        "role": "Startup Team Leader"
+      }
+    ]
+  },
+  "comparison": {
+    "title": "Version Comparison",
+    "desc": "Choose the plan that suits you best"
+  },
+  "guarantee": {
+    "title": "Worry-Free Purchase",
+    "items": [
+      {
+        "title": "Quality Assurance",
+        "desc": "If you are not satisfied with the product, we will optimize it until you are satisfied."
+      },
+      {
+        "title": "Secure Payment",
+        "desc": "Supports multiple payment methods."
+      },
+      {
+        "title": "24/7 Service",
+        "desc": "A professional technical support team is always at your service."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "desc": "If you have any other questions, please feel free to contact our customer service team.",
+    "items": [
+      {
+        "q": "I don't understand programming at all. Can I use this product?",
+        "a": "Absolutely! Our product is designed to be easy for non-technical users. You just need to prepare product introduction text and images, and with simple visual configuration, you can set up a professional product showcase website in minutes."
+      },
+      {
+        "q": "What custom features does the website support?",
+        "a": "The standard version supports basic theme customization, bilingual switching, mobile adaptation, etc.; the advanced version also supports custom colors, fonts, layouts, multilingual expansion, advanced animation effects, and PWA offline access, among other features. All features can be easily configured through a visual interface."
+      },
+      {
+        "q": "How is the website's loading speed and performance?",
+        "a": "We use the latest Vue 3 and Nuxt 3 technology stack, ensuring excellent performance through code splitting, lazy loading, image optimization, and other methods. The advanced version also supports PWA technology for instant loading, making your website faster."
+      },
+      {
+        "q": "How can I ensure my website is indexed by search engines?",
+        "a": "We have a complete SEO optimization plan built-in. The standard version provides basic SEO configuration; the advanced version supports custom meta tags, multilingual SEO, automatic sitemap generation, and other advanced features to help your website achieve better search engine rankings."
+      },
+      {
+        "q": "How do I get technical support after purchase?",
+        "a": "The standard version provides email technical support with a response within 24 hours; advanced version users enjoy priority technical support with a response within 2 hours. We also provide detailed user documentation and video tutorials to help you get started quickly. If you encounter issues, you can also join the user community for discussions."
+      }
+    ]
+  }
+}
