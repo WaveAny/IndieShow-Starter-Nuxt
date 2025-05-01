@@ -53,12 +53,12 @@ IndieShow is a product showcase website template designed specifically for indie
 
 ## 🌈 Live Demo
 
-- **Demo Site**: [https://indieshow.waveany.com](https://indieshow-nuxt.waveany.com/)
+- **Demo Site**: [https://indieshow-nuxt.waveany.com](https://indieshow-nuxt.waveany.com)
 - **Documentation**: [View Docs](https://docs.indieshow.waveany.com/nuxt)
 
 <p align="center">
-  <a href="https://indieshow.waveany.com/"><img src="./public/assets/images/IndieShow-banner.png?raw=true" alt="IndieShow banner"></a>
-  <a href="https://indieshow.waveany.com/"><img src="./public/assets/images/IndieShow-MyWorkWithFooter.png?raw=true" alt="IndieShow-MyWorkWithFooter"></a>
+  <a href="https://indieshow-nuxt.waveany.com"><img src="./public/assets/images/IndieShow-banner.png?raw=true" alt="IndieShow banner"></a>
+  <a href="https://indieshow-nuxt.waveany.com"><img src="./public/assets/images/IndieShow-MyWorkWithFooter.png?raw=true" alt="IndieShow-MyWorkWithFooter"></a>
 </p>
 
 ## 🛠️ Tech Stack
